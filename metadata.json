@@ -1,0 +1,7 @@
+{
+  "name": "NeoPDV4_ POS",
+  "description": "Uma solução completa e gratuita de Ponto de Venda (PDV) e gestão de estoque com inteligência artificial para pequenos negócios.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
